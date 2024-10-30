@@ -55,7 +55,7 @@
   <a href="https://www.instagram.com/achin3134/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo"  />
   </a>
-  <a href="https://discord.com/YOUR_DISCORD_INVITE_LINK" target="_blank">
+  <a href="https://discordapp.com/users/866521024564822046" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord logo"  />
   </a>
   <a href="mailto:achinagarwal9044@gmail.com" target="_blank">
